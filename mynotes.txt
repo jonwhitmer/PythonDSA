@@ -1,0 +1,16 @@
+--> How to declare a set
+--> num = set()
+
+--> sorting a sorting
+--> sorted(s) where s is the string
+
+--> for i in range(len(s)):
+
+--> for i, n in enumerate(nums):
+--> i, index of current number
+--> n, value of the current number
+--> enumerate --> gives both index and number in one loop
+
+--> defaultdict(list) creates a dictionary where any new key automatically starts with an empty list
+
+--> ''.join(sorted(s)) glues letters back into a string (alpha order)
